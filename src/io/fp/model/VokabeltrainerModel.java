@@ -25,6 +25,6 @@ public class VokabeltrainerModel {
 	}
 	
 	public void wähleWort() {
-
+		int i; 
 	}
 }
